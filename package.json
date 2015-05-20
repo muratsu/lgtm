@@ -1,0 +1,26 @@
+{
+  "name": "lgtm",
+  "version": "0.0.1",
+  "description": "lgtm on console",
+  "main": "index.js",
+  "bin": {
+    "lgtm": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"who does testing?\" && exit 1"
+  },
+  "keywords": [
+    "lgtm",
+    "console"
+  ],
+  "author": "Murat Sutunc",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.55.0"
+  },
+  "bugs": {
+    "url": "https://github.com/muratsu/lgtm/issues"
+  },
+  "homepage": "https://github.com/muratsu/lgtm"
+}
