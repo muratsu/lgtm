@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var request = require('request'),
     cheerio = require('cheerio');
 var url = 'http://www.lgtm.in/g';
